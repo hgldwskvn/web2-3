@@ -1,5 +1,4 @@
-
-@charset"UTF-8"
+@charset "UTF-8"
 .cat{
      font-size: 70%;
      padding:20px 0px;
@@ -48,8 +47,8 @@ h1{
 h2{
    font-size:1.25em;
    color:#ffffff;
-   boder:#94c8b1 1px dotted;
-   boder-left:#d0e35b 10px solid;
+   border:#94c8b1 1px dotted;
+   border-left:#d0e35b 10px solid;
    margin-bottom:0;
    padding:5px 20px;
 }
@@ -59,7 +58,7 @@ p{
  color:#333333;
  }
 a{
- color:#afdeeee;
+ color:#afdeee;
  }
  a:hover{
  color:#00bfff;
@@ -71,10 +70,10 @@ a{
    color:#d0e35b;
    }
  #lend{
- boder-top:#6fbb9a 1px dotted;
+ border-top:#6fbb9a 1px dotted;
 text-align:center;
 }
 p.greeting{
- boder-top:#6fbb9a 1px dotted;
+ border-top:#6fbb9a 1px dotted;
 text-align:center;
 }
