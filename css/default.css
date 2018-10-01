@@ -1,12 +1,19 @@
-<!DOCTYPE html>
-<html lang="ja">
-<head>
-  <meta charset="utf-8">
-  <title>タイトル</title>
-  <link rel="stylesheet"href="css/dafault.css"type="text/css">
-</head>
-<body>
+
 @charset"UTF-8"
+.cat{
+     font-size: 70%;
+     padding:20px 0px;
+     padding-right:30px;
+     background-image: url(http://season-freeillust.com/img/others-haikei/07.jpg);
+     background-repeat: no-repeat;
+     background-position: right center;
+}
+.male{
+  color:#2793a7;
+}
+.female{
+  color:#df972f;
+}
 h1{
   font-size:1.75em;
   color:#0000ff;
@@ -71,5 +78,3 @@ p.greeting{
  boder-top:#6fbb9a 1px dotted;
 text-align:center;
 }
-</body>
-</html>
