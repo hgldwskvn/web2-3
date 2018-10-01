@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>タイトル</title>
+  <link rel="stylesheet"href="css/dafault.css"type="text/css">
+</head>
+<body>
+@charset"UTF-8"
+h1{
+  font-size:1.75em;
+  color:#0000ff;
+  text-align:center;
+  }
+h2{
+   font-size:1.25em;
+   background-color:#3399cc;
+   color:#90ee90;
+}
+p{
+ font-size:0.8em;
+ color:#ffa500;
+ line-height:1.75em;
+ }
+li{
+  font-size:0.8em;
+  color:#ff6347;
+  }
+  address{
+    font-size:0.75em;
+    font-style:italic;
+    }
+body{
+  background-color:#ffdead;
+  }
+h1{
+ font-size:1.75em;
+  color:#3399cc;
+  text-align:center;
+  }
+h2{
+   font-size:1.25em;
+   color:#ffffff;
+   boder:#94c8b1 1px dotted;
+   boder-left:#d0e35b 10px solid;
+   margin-bottom:0;
+   padding:5px 20px;
+}
+p{
+ font-size:0.8em;
+ background-color:#3399cc;
+ color:#333333;
+ }
+a{
+ color:#afdeeee;
+ }
+ a:hover{
+ color:#00bfff;
+ }
+ h1 span{
+   color:#d0e35b;
+   }
+ h1 a{
+   color:#d0e35b;
+   }
+ #lend{
+ boder-top:#6fbb9a 1px dotted;
+text-align:center;
+}
+p.greeting{
+ boder-top:#6fbb9a 1px dotted;
+text-align:center;
+}
+</body>
+</html>
